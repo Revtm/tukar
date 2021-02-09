@@ -1,0 +1,9 @@
+{
+"name": "@revtm/tukar",
+"version": "1.0.0",
+"description": "Switch array values",
+"license": "MIT",
+"repository": "Revtm/tukar"
+"main": "index.js"
+"keyword":["tukar", "switch", "change"]
+}
