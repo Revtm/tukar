@@ -2,4 +2,4 @@
 <center > <img src="https://img.shields.io/bundlephobia/min/@revtm/tukar"/> </center >
 
 
-Js to switch two values!
+Js function to switch two values on index 0 and 1 in an 1-D array!
