@@ -3,7 +3,7 @@
 "version": "2.0.1",
 "description": "Switch array values",
 "license": "MIT",
-"repository": "Revtm/tukar"
-"main": "index.js"
+"repository": "Revtm/tukar",
+"main": "index.js",
 "keyword":["tukar", "switch", "change"]
 }
